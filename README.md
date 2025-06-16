@@ -302,11 +302,6 @@ Build ai-messenger from the source and intsall dependencies:
 
 <!-- SHIELDS BADGE CURRENTLY DISABLED -->
 
-    <!-- [![docker][docker-shield]][docker-link] -->
-    <!-- REFERENCE LINKS -->
-    <!-- [docker-shield]: https://img.shields.io/badge/Docker-2CA5E0.svg?style={badge_style}&logo=docker&logoColor=white -->
-    <!-- [docker-link]: https://www.docker.com/ -->
-
     **Using [docker](https://www.docker.com/):**
 
     ```sh
@@ -315,23 +310,11 @@ Build ai-messenger from the source and intsall dependencies:
 
 <!-- SHIELDS BADGE CURRENTLY DISABLED -->
 
-    <!-- [![pip][pip-shield]][pip-link] -->
-    <!-- REFERENCE LINKS -->
-    <!-- [pip-shield]: https://img.shields.io/badge/Pip-3776AB.svg?style={badge_style}&logo=pypi&logoColor=white -->
-    <!-- [pip-link]: https://pypi.org/project/pip/ -->
-
     **Using [pip](https://pypi.org/project/pip/):**
 
     ```sh
     ❯ pip install -r requirements.txt
     ```
-
-<!-- SHIELDS BADGE CURRENTLY DISABLED -->
-
-    <!-- [![poetry][poetry-shield]][poetry-link] -->
-    <!-- REFERENCE LINKS -->
-    <!-- [poetry-shield]: https://img.shields.io/endpoint?url=https://python-poetry.org/badge/v0.json -->
-    <!-- [poetry-link]: https://python-poetry.org/ -->
 
     **Using [poetry](https://python-poetry.org/):**
 
