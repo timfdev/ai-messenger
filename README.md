@@ -300,27 +300,23 @@ Build ai-messenger from the source and intsall dependencies:
 
 3. **Install the dependencies:**
 
-<!-- SHIELDS BADGE CURRENTLY DISABLED -->
+   **Using [docker](https://www.docker.com/):**
 
-    **Using [docker](https://www.docker.com/):**
+   ```sh
+   ❯ docker build -t timfdev/ai-messenger .
+   ```
 
-    ```sh
-    ❯ docker build -t timfdev/ai-messenger .
-    ```
+   **Using [pip](https://pypi.org/project/pip/):**
 
-<!-- SHIELDS BADGE CURRENTLY DISABLED -->
+   ```sh
+   ❯ pip install -r requirements.txt
+   ```
 
-    **Using [pip](https://pypi.org/project/pip/):**
+   **Using [poetry](https://python-poetry.org/):**
 
-    ```sh
-    ❯ pip install -r requirements.txt
-    ```
-
-    **Using [poetry](https://python-poetry.org/):**
-
-    ```sh
-    ❯ poetry install
-    ```
+   ```sh
+   ❯ poetry install
+   ```
 
 ### Usage
 
